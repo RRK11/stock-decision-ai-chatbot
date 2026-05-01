@@ -1,8 +1,4 @@
-gradio==4.44.1
-langchain
-langchain-openai
-openai
+gradio
 yfinance
-pandas
-numpy
 python-dotenv
+openai
